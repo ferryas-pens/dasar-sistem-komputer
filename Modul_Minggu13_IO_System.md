@@ -178,7 +178,7 @@ I/O berfungsi sebagai "jembatan komunikasi" yang memungkinkan interaksi manusia 
 
 ## 9. Sumber Belajar Online
 
-- [Input Output Organization – GeeksforGeeks](https://www.geeksforgeeks.org/input-output-organization-in-computer-architecture/)  
+- [Input Output Organization – University of Illionis ](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/13_IOSystems.html)  
 - [DMA in Computer Architecture – TutorialsPoint](https://www.tutorialspoint.com/computer_organization/direct_memory_access.htm)  
 - [I/O System Basics – W3Schools](https://www.w3schools.in/computer-organization/io-system)
 
